@@ -1,3 +1,4 @@
+#define FETPIN 34
 #define FREQUENCY 117000
 hw_timer_t * timerX = NULL;
 volatile bool squareState = false;
